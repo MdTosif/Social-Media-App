@@ -1,0 +1,5 @@
+.env
+node_modules/
+moiapp/
+moiapp2/
+package-lock.json
